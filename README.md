@@ -20,7 +20,7 @@ int	main(void)
 
 // expected output:
 // 👨‍💻 Contributor: Jan | GitHub: https://github.com/Jano844
-// 👨‍💻 Contributor: Steven | GitHub: https://github.com/ShiiikK
+// 👨‍💻 Contributor: Steven | GitHub: https://github.com/Steven-L-42
 ```
 ## Beschreibung
 Minishell ist eine einfache Shell, die grundlegende Funktionen einer Shell implementiert.
