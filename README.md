@@ -1,4 +1,7 @@
 # Minishell
+
+![minishell](https://github.com/byaliego/42-project-badges/blob/main/badges/minishellm.png?raw=true)
+
 ```c
 #include <stdio.h>
 
