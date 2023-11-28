@@ -13,7 +13,7 @@ int	main(void)
 {
 	if (show_contributor("Jan", "https://github.com/Jano844"))
 		return (1);
-	if (show_contributor("Steven", "https://github.com/ShiiikK"))
+	if (show_contributor("Steven", "https://github.com/Steven-L-42"))
 		return (1);
 	return (0);
 }
